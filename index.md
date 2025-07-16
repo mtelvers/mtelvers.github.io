@@ -1,9 +1,7 @@
 ---
 layout: default
-title: mtelvers.github.io
+title: index
 ---
-
-# mtelvers.github.io
 
 <div class="project-grid">
 
