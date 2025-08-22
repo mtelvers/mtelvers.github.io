@@ -32,5 +32,10 @@ title: index
 [📁 Repository](https://github.com/mtelvers/puzzle) | [📖 Live](https://mtelvers.github.io/puzzle)
 </div>
 
+<div class="project-card" markdown="1">
+### Avery Label Maker
+[📁 Repository](https://github.com/mtelvers/label-maker-js) | [📖 Live](https://mtelvers.github.io/label-maker-js)
+</div>
+
 </div>
 
